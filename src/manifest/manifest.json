@@ -1,0 +1,8 @@
+{
+    "name": "Eventos Sao La Habana",
+    "short_name": "Sao Habana",
+    "start_url": "https://sao-habana.vercel.app",
+    "display": "standalone",
+    "background_color": "#1b1b1b",
+    "theme_color": "#8e506c"
+  }
